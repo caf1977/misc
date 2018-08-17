@@ -1,0 +1,8 @@
+initial/.classpath
+initial/gradle/wrapper/gradle-wrapper.jar
+initial/build/tmp/bootJar/MANIFEST.MF
+initial/bin/
+initial/build/classes/java/main/hello/HelloController.class
+initial/build/classes/java/main/hello/Application.class
+initial/.settings/org.eclipse.buildship.core.prefs
+initial/build/libs/gs-spring-boot-0.1.0.jar
